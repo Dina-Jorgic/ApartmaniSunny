@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+}
+
+h3 {
+  color: #ff4d4d;
+}
+
+.navbar {
+  padding-top: 10px;
+}
+
+#slike {
+  height: 800px;
+}
+
+.nav-link {
+  margin-right: 20px;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
